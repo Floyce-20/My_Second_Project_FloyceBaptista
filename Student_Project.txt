@@ -1,8 +1,7 @@
 My Student Project
-
-Name:
-Class:
+Name: Floyce Baptista
+Class: FYBSC
 Course: Computer Software Fundamentals
-
 This is my first project using GitHub.
-
+What I learned:
+GitHub can be used to store and share project files.
